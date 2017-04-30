@@ -1,0 +1,66 @@
+[
+  {
+    "singerName":"薛之谦",
+    "songName":"表演",
+    "id":"song1",
+    "songUrl":"http://fs.open.kugou.com/6a2d8895bb907bd7c9fa6122b9fb11bf/58ff322e/G017/M00/0B/10/sYYBAFVw-LiAbmWdABBk3MoTmws595.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20161121/20161121115938576.jpg"
+  },
+  {
+    "singerName":"陈一发儿",
+    "songName":"童话镇",
+    "id":"song2",
+    "songUrl":"http://fs.open.kugou.com/916e610e3c8e06d3b16e17d09d5007d4/58ff32f3/G081/M08/01/19/MZQEAFfu7uuAVQ-0ABAw6OOI764687.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20161222/20161222154900283.jpg"
+  },
+  {
+    "singerName":"Lucky Twice",
+    "songName":"We Just Laugh About It",
+    "id":"song3",
+    "songUrl":"http://fs.open.kugou.com/ac7924a648effb9eab1f6585aea1e621/58ff36aa/G041/M04/06/17/CZQEAFY1pwaIBvdVAAzSM3hkGT0AAAopwPxFX8ADNJL759.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20140515/20140515161229197578.jpg"
+  },
+  {
+    "singerName":"Shakira",
+    "songName":"Try Everything【《疯狂动物城》电影主题曲】",
+    "id":"song4",
+    "songUrl":"http://fs.open.kugou.com/6e9b1354f70c6bdd9b0ce203a3bed086/58ff393a/G054/M04/03/11/dg0DAFaPOdaIZH5MAAxMSG_kU_cAAAlzQKrpwkADExg871.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20160429/20160429120437777.jpg"
+  },
+  {
+    "singerName":"童可可",
+    "songName":"萌萌哒",
+    "id":"song5",
+    "songUrl":"http://fs.open.kugou.com/2e5b1a932480865748e26b2da5aa2194/58ff35ad/G038/M0A/13/17/xoYBAFZF5tmARvC4ABcN_7tGXW4132.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20160511/20160511175000437650.jpg"
+  },
+  {
+    "singerName":"Jule Vera",
+    "songName":"Scarlet Letter",
+    "id":"song6",
+    "songUrl":"http://fs.open.kugou.com/30d1e600922ed6b830bb24af6a63ad00/58ff3acb/G051/M00/0E/07/cw0DAFaVtDuIf4TKAAw_9oovGgAAAAzDgNYxt4ADEAO410.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20160526/20160526202012455914.jpg"
+  },
+  {
+    "singerName":"Ramzi",
+    "songName":"Fall In Love",
+    "id":"song7",
+    "songUrl":"http://fs.open.kugou.com/bc1d01a46b86eb64c1f91e01a64ea934/58ff3b3f/G077/M01/0E/17/jQ0DAFgu4BqIaOvOAA8D6vldxvgAAAYYgIlQ5IADwQC997.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20151219/20151219102426175.jpg"
+  },
+  {
+    "singerName":"张赫宣",
+    "songName":"我们不该这样的【《北上广不相信眼泪》电视剧片尾曲】",
+    "id":"song8",
+    "songUrl":"http://fs.open.kugou.com/325a146ddd77c3031579c55d32ce9756/58ff3b92/G045/M0A/03/17/DZQEAFZDB3yIJmAMAA4z7P55l30AAAm_gNUctMADjQE886.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20160429/20160429120531661.jpg"
+  },
+  {
+    "singerName":"伍佰",
+    "songName":"挪威的森林",
+    "id":"song9",
+    "songUrl":"http://fs.open.kugou.com/5ff899f185cb1f4c4c216176a9d23bd7/58ff3d30/G020/M01/09/07/VA0DAFWdgniIdei0AAc9aWPp-cMAAA60gKEgOoABz2B577.m4a",
+    "imgUrl":"http://singerimg.kugou.com/uploadpic/softhead/200/20150202/20150202145748801748.jpg"
+  }
+]
+

@@ -1,0 +1,70 @@
+[
+  {
+    "rankName": "酷狗飙升榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100030907982.png"
+  },
+  {
+  "rankName": "酷狗TOP500",
+  "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100046499341.png"
+  },
+  {
+    "rankName": "网络红歌榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150818/20150818104300762763.png"
+  },
+  {
+    "rankName": "DJ热歌榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20160119/20160119114653428408.png"
+  },
+  {
+    "rankName": "华语新歌榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100103282211.png"
+  },
+  {
+    "rankName": "欧美新歌榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100117648320.png"
+  },
+  {
+    "rankName": "韩国新歌榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20170207/20170207104015555457.png"
+  },
+  {
+    "rankName": "粤语新歌榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100200275675.png"
+  },
+  {
+    "rankName": "vivo热歌分享榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20170418/20170418142021927674.png"
+  },
+  {
+    "rankName": "原创音乐榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20161013/20161013110348466009.png"
+  },
+  {
+    "rankName": "歌手2017榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20170204/20170204152817352959.png"
+  },
+  {
+    "rankName": "金曲捞榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20170420/20170420170933676386.jpg"
+  },
+  {
+    "rankName": "5sing音乐榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100404157966.png"
+  },
+  {
+    "rankName": "校园歌曲榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20160531/20160531175617521660.jpg"
+  },
+  {
+    "rankName": "繁星音乐榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100418606039.png"
+  },
+  {
+    "rankName": "美国BillBoard榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100525388020.png"
+  },
+  {
+    "rankName": "英国单曲榜",
+    "rankImgSrc": "http://imge.kugou.com/mcommon/400/20150717/20150717100550553023.png"
+  }
+]
