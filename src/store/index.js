@@ -34,6 +34,7 @@ const store = new Vuex.Store({
             songUrl = res.body[index].songUrl,
             imgUrl = res.body[index].imgUrl;
         var audio = {singerName,songName,songUrl,imgUrl};
+        state.songIndex = index;
         commit('setAudio',audio);
         document.querySelector(".main").style.marginBottom="64px"
         document.querySelector("#player-play").className="pause-icon-play";
@@ -48,7 +49,6 @@ const store = new Vuex.Store({
         state.songIndex++;
       }
       var index = state.songIndex;
-      console.log(document.querySelectorAll(".panel-songslist-item").length);
       dispatch("getSong",index);
     }
   }
