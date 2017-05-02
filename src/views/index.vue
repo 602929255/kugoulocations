@@ -7,7 +7,10 @@
       <mt-swipe-item><img src="../assets/banner4.jpg"></mt-swipe-item>
     </mt-swipe>
    <ul class="panel-songslist">
-      <li v-for="(songs,index) in songList"  class="panel-songslist-item" @click="playSong(index)"><span>{{songs.singerName}}&nbsp;-&nbsp;{{songs.songName}}</span><i></i></li>
+      <li v-for="(songs,index) in songList"  class="panel-songslist-item" @click="playSong(index)">
+        <span>{{songs.singerName}}&nbsp;-&nbsp;{{songs.songName}}</span>
+        <i></i>
+      </li>
     </ul>
 </div>
 </template>
@@ -29,7 +32,7 @@
           this.songList = res.body;
           console.log(res.body);
         })
-       // this.tops = 35;
+
       },
       playSong:function(index){
          this.$store.dispatch("getSong",index);

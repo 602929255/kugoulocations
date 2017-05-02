@@ -41,7 +41,6 @@
             this.$router.push({ path:"/singer"});
             break;
         }
-
           this.selected=index;
 
 

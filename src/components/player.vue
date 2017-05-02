@@ -30,10 +30,13 @@
       toggole:function(){
         this.isToggole = !this.isToggole;
         var audios = document.querySelector("#audioPlay");
+        var player_img = document.querySelector(".player-img");
         if(!this.isToggole){
           audios.pause();
+          player_img.style.animationPlayState = "paused";
         }else if(this.isToggole){
           audios.play();
+          player_img.style.animationPlayState = "running";
         }
 
       },
@@ -66,8 +69,13 @@
   }
   .player-img{
     height: 100%;
-    border-radius:5px;
+    border-radius:50%;
     float: left;
+    -webkit-animation:rotates 10s infinite linear;
+    -moz-animation:rotates 10s infinite linear;
+    -o-animation:rotates 10s infinite linear;
+    animation:rotates 10s infinite linear;
+
   }
   .player-status{
     width: 50%;
@@ -122,4 +130,43 @@
     background-size: auto 70%;
 
   }
+
+  /*动画*/
+  @keyframes rotates{
+    from{
+      transform:rotate(0deg);
+    }
+
+    to{
+      transform:rotate(360deg);
+    }
+  }
+  @-webkit-keyframes rotates{
+    from{
+      transform:rotate(0deg);
+    }
+
+    to{
+      transform:rotate(360deg);
+    }
+  }
+  @-moz-keyframes rotates{
+    from{
+      transform:rotate(0deg);
+    }
+
+    to{
+      transform:rotate(360deg);
+    }
+  }
+  @-o-keyframes rotates{
+    from{
+      transform:rotate(0deg);
+    }
+
+    to{
+      transform:rotate(360deg);
+    }
+  }
+
 </style>
